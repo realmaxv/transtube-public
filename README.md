@@ -46,7 +46,11 @@ Der Code ist übersichtlich und modular aufgebaut, mit Kommentaren zur Orientier
 - Diese Public-Version enthält keine API-Keys oder Umgebungsvariablen
 - Um den Einstieg zu erleichtern, sind zentrale Funktionen im Code kommentiert.
 
-Weitere technische Details sind direkt im Code dokumentiert.
+Eine zentrale Übersicht der wichtigsten Komponenten findest du hier:
+
+### 🔍 Funktionsweise
+
+TransTube funktioniert ganz einfach: Du gibst eine beliebige URL zu einem Online-Artikel ein – die App ruft im Hintergrund die Inhalte ab, leitet sie an eine externe KI-Schnittstelle weiter (z. B. GPT), und gibt dir eine klar strukturierte, leicht verständliche Zusammenfassung zurück. Dabei kannst du zusätzlich Stichwörter eingeben, um gezielt bestimmte Themenbereiche hervorzuheben. Die gesamte Analyse läuft clientseitig über das Frontend in Kombination mit einer ausgelagerten API.
 
 ## 🤝 Mitwirken
 
@@ -54,6 +58,6 @@ Pull Requests, Feedback und neue Ideen sind herzlich willkommen!
 
 ## 📝 Lizenz
 
-MIT – frei verwendbar & anpassbar.
+MIT License – Copyright © 2025 Max Voßgätter
 
 Dieses Projekt dient ausschließlich zu Demonstrations- und Lernzwecken.
