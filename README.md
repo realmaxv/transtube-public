@@ -55,3 +55,5 @@ Pull Requests, Feedback und neue Ideen sind herzlich willkommen!
 ## 📝 Lizenz
 
 MIT – frei verwendbar & anpassbar.
+
+Dieses Projekt dient ausschließlich zu Demonstrations- und Lernzwecken.
